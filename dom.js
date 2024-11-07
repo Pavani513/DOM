@@ -4,6 +4,7 @@ a.onclick = function j() {
     a.style.backgroundColor = "red"
     a.style.fontSize = "60px"
     a.style.borderRadius = "50%"
+    a.style.padding="20px"
 }
 function p()
 {
